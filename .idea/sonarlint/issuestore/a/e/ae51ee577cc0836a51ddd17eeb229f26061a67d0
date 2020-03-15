@@ -1,0 +1,27 @@
+
+[
+java:S2184"@Cast one of the operands of this integer division to a "double".(®â‹£ûÿÿÿÿ
+[
+java:S2184"@Cast one of the operands of this integer division to a "double".(ÔÒÔëøÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´¡¦ò
+P
+java:S1854"5Remove this useless assignment to local variable "x".(§İ¶Áøÿÿÿÿ
+P
+java:S1854"5Remove this useless assignment to local variable "x".(§İ¶Áøÿÿÿÿ
+<
+java:S1659"&Declare "edadsuma" on a separate line.(úáÂ
+@
+java:S1659"*Declare "estaturasuma" on a separate line.(úáÂ
+:
+java:S1659"$Declare "cam18a" on a separate line.(úáÂ
+;
+java:S1659"%Declare "cam175m" on a separate line.(úáÂ
+5
+java:S1659"Declare "n" on a separate line.(úáÂ
+B
+java:S1659"'Declare "edadmedia" on a separate line.(¢ëÂ‡ûÿÿÿÿ
+F
+java:S1659"+Declare "estaturamedia" on a separate line.(¢ëÂ‡ûÿÿÿÿ
+>
+java:S1125
+"(Remove the literal "true" boolean value.(ïİÂü
